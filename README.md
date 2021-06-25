@@ -8,7 +8,7 @@ Horieson marketing offers services to improve business's online presence.
 * CSS
 
 ## Website
-http://horiseonmarketing.com
+https://kyairlakayla.github.io/horiseon-marketing/
 
 ## Contribution
 Made with ❤️ by Kayla Davis
